@@ -1,0 +1,17 @@
+@import "./style.partial";
+
+.container {
+    /* height: 500px; */
+    width: 950px;
+    margin: auto;
+    border: 1px solid;
+}.page-header
+{
+    background-color: cyan;
+}.page-footer
+{
+    background-color: darkblue;
+}.information
+{
+    background-color: beige;
+}
