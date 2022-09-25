@@ -7,4 +7,3 @@ Colors
 Buttons
     - Send
     - Subscribe
-

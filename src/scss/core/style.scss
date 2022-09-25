@@ -1,17 +1,115 @@
-@import "//node_modules/bootstrap/scss/bootstrap.scss";
+// @import "//node_modules/bootstrap/scss/bootstrap.scss";
+@import "base";
 
 .container {
-    /* height: 500px; */
     width: 950px;
-    margin: auto;
-    border: 1px solid;
-}.page-header
+    border: 0px;
+    border-radius: 25px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 15px rgb(0 90 130 / 15%);
+}
+.Footercontainer {
+    width: 950px;
+    border: 0px;
+    border-radius: 25px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 5px rgb(0 90 130 / 15%);
+}
+.Headercontainer {
+    /* height: 500px; */
+    padding: 1px;
+    width: 950px;
+    border: 0px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    font-size: larger;
+    font-weight: bold;
+    transform: rotate(-180deg);
+}
+.page-header
 {
-    background-color: cyan;
+    // background-image: url('../../images/backgrounds/Hbackground.png');
+    text-align: -webkit-center;
+    background: linear-gradient(359.45deg, #4A99D3 -24.57%, rgba(74, 153, 211, 0) 76.31%), #FFFFFF;
+    transform: rotate(-180deg);
+    height: 150px;
+    opacity: 0.7;
 }.page-footer
 {
-    background-color: darkblue;
-}.information
-{
-    background-color: beige;
+    background-color: #4A99D3;
+    text-align: center;
+    height: 300px;
+    margin-top: 20px;
 }
+.social-icons {
+    font-size: 25px;
+    cursor: pointer;
+}
+.fa {
+    color: #000000;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-youtube:hover {
+    color: #4A99D3;
+}
+.fab {
+    color: #ffffff;
+}
+.fab.fa-facebook:hover,.fab.fa-instagram:hover,.fab.fa-twitter:hover,.fab.fa-youtube:hover {
+    color: #000000;
+}
+
+.btn-send {
+    background-color: #4A99D3;
+}
+.details{
+height: 588px;
+}
+.pheading
+{
+    color: #4A99D3;
+    font-family: MADEMellowBold;
+    text-decoration-line: underline;
+}
+
+.btnSub{
+    background: #FFFFFF;
+    border-radius: 3px;
+    font-style: normal;
+    font-weight: 700;
+    color: #4A99D3;
+    border: none;
+}
+.footerLinks{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    color: #FFFFFF;
+}
+.hlist{
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+.blist{
+    color: #FFFFFF;
+}
+
+@font-face {
+    font-family: 'MADEMellow';
+    src: url('../../fonts/made_mellow/MADEMellowPERSONALUSE-Regular.woff2') format('woff2'),
+         url('../../fonts/made_mellow/MADEMellowPERSONALUSE-Regular.woff') format('woff'),
+         url('../../fonts/made_mellow/MADEMellowPERSONALUSE-Regular.ttf') format('truetype');
+  }
+
+  @font-face {
+    font-family: 'MADEMellowBold';
+    src: url('../../fonts/made_mellow/MADEMellowPERSONALUSE-SemiBold.woff2') format('woff2'),
+         url('../../fonts/made_mellow/MADEMellowPERSONALUSE-SemiBold.woff') format('woff'),
+         url('../../fonts/made_mellow/MADEMellowPERSONALUSE-SemiBold.ttf') format('truetype');
+         
+         font-weight: bold;
+  }
+ 
+ * {
+    font-family : MADEMellow;
+ }
+ 

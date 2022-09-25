@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'MADE Mellow PERSONAL USE';
+    src: url('MADEMellowPERSONALUSE-Bold.eot');
+    src: url('MADEMellowPERSONALUSE-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MADEMellowPERSONALUSE-Bold.woff2') format('woff2'),
+        url('MADEMellowPERSONALUSE-Bold.woff') format('woff'),
+        url('MADEMellowPERSONALUSE-Bold.ttf') format('truetype'),
+        url('MADEMellowPERSONALUSE-Bold.svg#MADEMellowPERSONALUSE-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Mellow PERSONAL USE';
+    src: url('MADEMellowPERSONALUSE-Black.eot');
+    src: url('MADEMellowPERSONALUSE-Black.eot?#iefix') format('embedded-opentype'),
+        url('MADEMellowPERSONALUSE-Black.woff2') format('woff2'),
+        url('MADEMellowPERSONALUSE-Black.woff') format('woff'),
+        url('MADEMellowPERSONALUSE-Black.ttf') format('truetype'),
+        url('MADEMellowPERSONALUSE-Black.svg#MADEMellowPERSONALUSE-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Mellow PERSONAL USE';
+    src: url('MADEMellowPERSONALUSE-Light.eot');
+    src: url('MADEMellowPERSONALUSE-Light.eot?#iefix') format('embedded-opentype'),
+        url('MADEMellowPERSONALUSE-Light.woff2') format('woff2'),
+        url('MADEMellowPERSONALUSE-Light.woff') format('woff'),
+        url('MADEMellowPERSONALUSE-Light.ttf') format('truetype'),
+        url('MADEMellowPERSONALUSE-Light.svg#MADEMellowPERSONALUSE-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Mellow PERSONAL USE SmBold';
+    src: url('MADEMellowPERSONALUSE-SemiBold.eot');
+    src: url('MADEMellowPERSONALUSE-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('MADEMellowPERSONALUSE-SemiBold.woff2') format('woff2'),
+        url('MADEMellowPERSONALUSE-SemiBold.woff') format('woff'),
+        url('MADEMellowPERSONALUSE-SemiBold.ttf') format('truetype'),
+        url('MADEMellowPERSONALUSE-SemiBold.svg#MADEMellowPERSONALUSE-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Mellow PERSONAL USE';
+    src: url('MADEMellowPERSONALUSE-Medium.eot');
+    src: url('MADEMellowPERSONALUSE-Medium.eot?#iefix') format('embedded-opentype'),
+        url('MADEMellowPERSONALUSE-Medium.woff2') format('woff2'),
+        url('MADEMellowPERSONALUSE-Medium.woff') format('woff'),
+        url('MADEMellowPERSONALUSE-Medium.ttf') format('truetype'),
+        url('MADEMellowPERSONALUSE-Medium.svg#MADEMellowPERSONALUSE-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Mellow PERSONAL USE';
+    src: url('MADEMellowPERSONALUSE-Regular.eot');
+    src: url('MADEMellowPERSONALUSE-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MADEMellowPERSONALUSE-Regular.woff2') format('woff2'),
+        url('MADEMellowPERSONALUSE-Regular.woff') format('woff'),
+        url('MADEMellowPERSONALUSE-Regular.ttf') format('truetype'),
+        url('MADEMellowPERSONALUSE-Regular.svg#MADEMellowPERSONALUSE-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Homemade Sausage';
+    src: url('HomemadeSausage.eot');
+    src: url('HomemadeSausage.eot?#iefix') format('embedded-opentype'),
+        url('HomemadeSausage.woff2') format('woff2'),
+        url('HomemadeSausage.woff') format('woff'),
+        url('HomemadeSausage.ttf') format('truetype'),
+        url('HomemadeSausage.svg#HomemadeSausage') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
