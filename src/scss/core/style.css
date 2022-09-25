@@ -109,7 +109,10 @@
 @font-face {
   font-family: "MADEMellowBold";
   src: url("../../fonts/made_mellow/MADEMellowPERSONALUSE-SemiBold.woff2") format("woff2"), url("../../fonts/made_mellow/MADEMellowPERSONALUSE-SemiBold.woff") format("woff"), url("../../fonts/made_mellow/MADEMellowPERSONALUSE-SemiBold.ttf") format("truetype");
-  font-weight: bold;
+}
+@font-face {
+  font-family: "HomemadeSausage";
+  src: url("../../fonts/HomemadeSausage/HomemadeSausage.woff2") format("woff2"), url("../../fonts/HomemadeSausage/HomemadeSausage.woff") format("woff"), url("../../fonts/HomemadeSausage/HomemadeSausage.ttf") format("truetype");
 }
 * {
   font-family: MADEMellow;
